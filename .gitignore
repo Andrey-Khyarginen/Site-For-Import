@@ -1,0 +1,5 @@
+tmp/
+git rm --cached _old
+git rm --cached _backup
+git rm --cached Thumbs.db
+git rm --cached .DS_Store
